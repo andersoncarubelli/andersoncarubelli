@@ -6,7 +6,7 @@
 Over 20 years of experience leading software development and driving innovation in the technology sector. I possess a diverse skillset in various programming languages, databases, cloud platforms, and Agile methodologies. I am passionate about building impactful solutions and fostering strong teams through collaborative practices and empathetic leadership.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=java,go,py,rails,git,github,gitlab,postgres,docker,aws,gcp,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,py,rails,ts,git,github,gitlab,postgres,docker,aws,gcp,cloudflare)](https://skillicons.dev)
 
 ## Stats
 
