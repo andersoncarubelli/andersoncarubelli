@@ -4,12 +4,6 @@
 
 Over 20 years of experience leading software development and driving innovation in the technology sector. I possess a diverse skillset in various programming languages, databases, cloud platforms, and Agile methodologies. I am passionate about building impactful solutions and fostering strong teams through collaborative practices and empathetic leadership.
 
-Technical Skills:
-
-[Badge 1: [invalid URL removed]]https://en.wikipedia.org/wiki/Badge, 
-[Badge 2: [invalid URL removed]]https://bulbapedia.bulbagarden.net/wiki/Badge, 
-[Badge 3: [invalid URL removed]]https://bulbapedia.bulbagarden.net/wiki/Badge
-
 ## How to reach me
 Reach me through [linkedin](https://www.linkedin.com/in/andersoncarubelli/).
 
