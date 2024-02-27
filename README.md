@@ -1,4 +1,5 @@
 # Anderson Carubelli - Technology Leader & Software Engineer
+<a href="https://www.linkedin.com/in/andersoncarubelli/"><img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin"/></a>
 
 ## About me:
 
