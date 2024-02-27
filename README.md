@@ -1,8 +1,4 @@
-### Hello there 🤘🏻
-
-# Anderson Carubelli - (Technology Leader & Software Engineer)
-
-Profile picture: https://docs.github.com/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/remembering-your-github-username-or-email
+# Anderson Carubelli - Technology Leader & Software Engineer
 
 ## About me:
 
@@ -15,7 +11,10 @@ Technical Skills:
 [Badge 3: [invalid URL removed]]https://bulbapedia.bulbagarden.net/wiki/Badge
 
 ## How to reach me
-Reach me through my e-mail address, through [linkedin](https://www.linkedin.com/in/andersoncarubelli/).
+Reach me through [linkedin](https://www.linkedin.com/in/andersoncarubelli/).
+
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=java,go,py,rails,git,github,gitlab,postgres,docker,aws,gcp,cloudflare)](https://skillicons.dev)
 
 ## Stats
 
