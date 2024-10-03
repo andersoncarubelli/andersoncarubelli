@@ -18,3 +18,7 @@ Over 20 years of experience leading software development and driving innovation 
   <br>
 </p>
 
+<div align="center">
+    <img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncarubelli&layout=compact&theme=github_dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=andersoncarubelli&theme=github_dark&hide_rank=true"/>
+</div>
